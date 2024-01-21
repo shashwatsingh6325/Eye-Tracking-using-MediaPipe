@@ -1,3 +1,3 @@
-Conducted research in HCI, particularly focusing on facial and eye tracking. 
-Developed a system that moves the mouse cursor through eye tracking, using technologies such as Python, Google's ML library MediaPipe.
-Used OpenCV for image processing and PyAutoGUI for mouse and keyboard control.
+1. Conducted research in HCI, particularly focusing on facial and eye tracking. 
+2. Developed a system that moves the mouse cursor through eye tracking, using technologies such as Python, Google's ML library MediaPipe.
+3. Used OpenCV for image processing and PyAutoGUI for mouse and keyboard control.
